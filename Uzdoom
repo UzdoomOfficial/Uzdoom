@@ -1,0 +1,42 @@
+UZDoom
+
+UZDoom is a modern, feature-rich source port for classic DOOM engine games, based on GZDoom. It provides advanced rendering, scripting capabilities, dynamic lighting, 3D floors, and extensive modding support.
+
+Official Website
+
+Visit the official UZDoom website:
+
+https://uzdoom.net/
+
+Downloads
+
+Download the latest UZDoom releases for Windows, Linux, and macOS.
+
+Windows
+Linux
+macOS
+Features
+High-resolution graphics
+Dynamic lighting
+3D floors
+Advanced OpenGL and Vulkan rendering
+Extensive modding support
+Modern source-port features
+Cross-platform support
+Documentation
+
+See the UZDoom documentation and installation guides for information about setup, supported games, configuration, and modding.
+
+Community
+
+Join the UZDoom community to discuss development, mods, maps, troubleshooting, and other UZDoom-related topics.
+
+License
+
+UZDoom is open-source software released under the GNU General Public License (GPLv3+).
+
+Links
+Website: https://uzdoom.net/
+GitHub: https://github.com/UZDoom/UZDoom
+Wiki: https://github.com/UZDoom/UZDoom/wiki
+Releases: https://github.com/UZDoom/UZDoom/releases
